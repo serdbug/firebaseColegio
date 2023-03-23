@@ -1,0 +1,81 @@
+body {
+            
+    margin-top: 0;
+    margin-right: 8px;
+    margin-bottom: 0;
+    margin-left: 8px;
+  
+  }
+
+    .colorBotonColapsado{
+        background-color: white;
+        color: rgb(0, 0, 0);
+    }
+
+    .colorBoton{
+        background-color: white;
+
+    }
+
+
+.bordeDelContenedor{
+            border: 3px solid black;
+}
+
+.limiteBordes{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+    
+.alumne{
+display: flex;
+background: red;
+border: 3px solid black;
+color: white;
+border-radius:10px ;
+height: 50px;
+align-items: center;
+justify-content: center;
+text-align: center;
+font-size: 1em;
+
+}
+
+.logo{
+    display: flex;
+    width: 10em;
+    height: 10em;
+    align-items: center;
+}
+
+.divLogo{
+    display: flex;
+    width: 10em;
+    height: 10em;
+    align-items: center;
+}
+
+.divBoton{
+    display: block;
+    width: 10em;
+    height: 10em;
+    align-items: center;
+}
+
+.tituloPresente{
+    display: block;
+    text-align: center;
+    
+}
+
+.h1Presente{
+    display: block;
+    text-align: center;
+}
+
+.accordion-item {
+    color: var(--bs-accordion-color);
+    background-color: var(--bs-accordion-bg);
+    border: var(--bs-accordion-border-width) solid #05e457;
+}  
